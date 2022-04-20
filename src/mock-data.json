@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "fullName":"janny Gart",
+        "address": "Semasshko 27",
+        "phoneNumber": "068-543-4556",
+        "email": "jg@mail.ru"
+    },
+    
+    {
+        "id":1,
+        "fullName":"janny Gart",
+        "address": "Semasshko 27",
+        "phoneNumber": "068-543-4556",
+        "email": "jg@mail.ru"
+    },
+    
+    {
+        "id":2,
+        "fullName":"Tom Gart",
+        "address": "Semasshko 27",
+        "phoneNumber": "068-543-4556",
+        "email": "jg@mail.ru"
+    },
+    
+    {
+        "id":3,
+        "fullName":"Malinda Gart",
+        "address": "Lesshko 27",
+        "phoneNumber": "068-543-4556",
+        "email": "jg@mail.ru"
+    }
+]
